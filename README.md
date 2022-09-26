@@ -14,7 +14,7 @@
 
 <h2>▶️ Tela</h2>
 <h1 align = "center">
-    <img alt=tela tittle=tela src="./github/tela.gif">
+    <img alt=tela tittle=tela src="https://github.com/victormazzofilho/Projeto-Inteface-Netflix/blob/main/tela.gif">
 </h1>
 
 <h2>🔗 Links Úteis</h2>
